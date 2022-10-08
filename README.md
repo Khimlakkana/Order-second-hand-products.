@@ -21,8 +21,7 @@ How to run server
 >npm run dev
 
 # How to use the system
->http://localhost:8080/users
-
-# How to use สั่งซื้อสินค้ามือ 2 
-
-![Image](https://imgur.com/ryShlx7)
+http://localhost:8080/users
+### Username and Password for Login
+lakkanat63@nu.ac.th
+1234

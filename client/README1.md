@@ -1,21 +1,14 @@
-# nv-wabblog-client
+# How to use สั่งซื้อสินค้ามือ 2
 
-> nodejs vuejs webblog client
+## การสั่งซื้อสินค้า
+1.สมัครผู้ใช้งาน
+2.ลงชื่อเข้าใช้งาน
+3.เลือกซื้อสินค้าโดยใส่ข้อมูล ชื่อ นามสกุล ชื่อสินค้า จำนวนสินค้า ที่อยู่ เบอร์โทรศัพท์
+4.ยืนยันการสั่งซื้อ
 
-## Build Setup
+## การลงซื้อสินค้า
+1.สมัครผู้ใช้งาน
+2.ลงชื่อเข้าใช้งาน
+3.เลือกลงขายสินค้าโดยใส่ข้อมูล หัวข้อหรือชื่อสินค้า รูปภาพ รายละเอียดสินค้า 
+4.ยืนยันการลงขายสินค้า
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
