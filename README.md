@@ -1,5 +1,6 @@
 # สั่งซื้อสินค้ามือ 2
-Project Server side web programming (273372) by รหัสนิสิต [63314791] (https://github.com/joyjoin1) และ รหัสนิสิต [63312568] (https://github.com/Khimlakkana)
+Project Server side web programming (273372) 
+by รหัสนิสิต [63314791] (https://github.com/joyjoin1) และ รหัสนิสิต [63312568] (https://github.com/Khimlakkana)
 
 ## สินค้ามือ 2 คืออะไร
 เป็นเว็บแอปพลิเคชั่นสำหรับซื้อ-ขายสินค้ามือสอง
