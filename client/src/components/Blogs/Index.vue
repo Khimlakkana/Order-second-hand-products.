@@ -71,7 +71,7 @@ export default {
       this.$router.push(route);
     },
     async deleteBlog(blog) {
-      let result = confirm("คุณแน่ใจนะ ที่จะยกเลิกการจองห้องประชุม?");
+      let result = confirm("คุณแน่ใจนะ ที่จะยกเลิกการสั่งซื้อสินค้านี้?");
       if (result) {
         try {
           await BlogService.delete(blog);
